@@ -1,1 +1,5 @@
-<?php echo "helloworld"; ?>
+<?php echo "helloworld";
+
+echo "hii";
+echo "hey";
+echo "k"; ?>
